@@ -1,0 +1,96 @@
+header {
+  margin-bottom: 30px;
+}
+header nav {
+  width: 960px;
+  margin: auto;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav section {
+  display: flex;
+  margin: 0%;
+}
+
+.topFork{
+width: 50px;
+height: 50px;
+}
+header nav section span h3 {
+  font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Pacifico', cursive;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+header nav section span p{
+  margin-top: 0px;
+}
+header nav section ul{
+
+list-style: none;
+}
+.bar {
+  width: 960px;
+  margin: auto;
+  border: none;
+  padding: 0px;
+  background-image:url(/lab-assets/hr-img.png);
+  background-repeat: round;
+  
+}
+
+main {
+  width: 960px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+main aside h1{
+margin: 0%;
+}
+
+main aside h4{
+  margin: 0%;
+
+}
+#printer {
+  width: 30px;
+  height: 30px;
+  margin: 0%;
+}
+main img {
+  margin-bottom: 30px;
+  margin-right: 10px;
+}
+footer {
+  background-color: gray;
+  height: 50px;
+}
+
+nav ul {
+  display: flex;
+  justify-content:end
+}
+
+article {
+  padding:4px;
+  width: 450px;
+  height: 270px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+  margin-top: 30px;
+}
+button {
+  background-color: black;
+  color:white;
+  height: 80px;
+  width: 100px;
+}
+h3 {
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
